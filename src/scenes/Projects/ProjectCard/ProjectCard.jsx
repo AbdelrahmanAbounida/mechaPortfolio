@@ -11,7 +11,7 @@ const ProjectCard = ({ id, image, title, description }) => {
       <div className={s.cardWrapper}>
       <Link
           to={`/project/${id}`}
-          state={{ background: location }}
+          // state={{ background: location }}
         >
           <LazyLoadImage
             alt="card-img"
@@ -27,14 +27,14 @@ const ProjectCard = ({ id, image, title, description }) => {
           <h3 className={s.title}>{title}</h3>
           <p className={s.description}>{description}</p>
         </div>
-        {/* <Button variant='contained' className={s.button}>
+        <Button variant='contained' className={s.button}>
         <Link
           to={`/project/${id}`}
           state={{ background: location }}
         >
           More details
           </Link>
-        </Button> */}
+        </Button>
 
       </div>
     </li>

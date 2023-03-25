@@ -20,7 +20,7 @@ const ModalProjectCard = () => {
   });
 
   return (
-    <Modal show={isVisible} onClose={toggleModal}>
+    <Modal show={true} onClose={toggleModal}>
       <div className={s.cardWrapper}>
         <LazyLoadImage
           alt="project-img"
