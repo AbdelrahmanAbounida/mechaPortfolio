@@ -17,7 +17,7 @@ const ModalProjectCard = () => {
 
   useEffect(() => {
     toggleModal();
-  });
+  },[]);
 
   return (
     <Modal show={true} onClose={toggleModal}>

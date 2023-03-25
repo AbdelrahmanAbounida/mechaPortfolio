@@ -11,7 +11,7 @@ const ProjectCard = ({ id, image, title, description }) => {
       <div className={s.cardWrapper}>
       <Link
           to={`/project/${id}`}
-          // state={{ background: location }}
+          state={{ background: location }}
         >
           <LazyLoadImage
             alt="card-img"
