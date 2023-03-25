@@ -3,10 +3,10 @@
     "static/js/0.65b40b71.chunk.js": "/mechaPortfolio/static/js/0.65b40b71.chunk.js",
     "static/js/0.65b40b71.chunk.js.map": "/mechaPortfolio/static/js/0.65b40b71.chunk.js.map",
     "main.css": "/mechaPortfolio/static/css/main.72a4e405.chunk.css",
-    "main.js": "/mechaPortfolio/static/js/main.df0b0e5b.chunk.js",
-    "main.js.map": "/mechaPortfolio/static/js/main.df0b0e5b.chunk.js.map",
-    "runtime-main.js": "/mechaPortfolio/static/js/runtime-main.b9560e29.js",
-    "runtime-main.js.map": "/mechaPortfolio/static/js/runtime-main.b9560e29.js.map",
+    "main.js": "/mechaPortfolio/static/js/main.a3696844.chunk.js",
+    "main.js.map": "/mechaPortfolio/static/js/main.a3696844.chunk.js.map",
+    "runtime-main.js": "/mechaPortfolio/static/js/runtime-main.bf20aa5b.js",
+    "runtime-main.js.map": "/mechaPortfolio/static/js/runtime-main.bf20aa5b.js.map",
     "static/css/3.27e19a57.chunk.css": "/mechaPortfolio/static/css/3.27e19a57.chunk.css",
     "static/js/3.4735b879.chunk.js": "/mechaPortfolio/static/js/3.4735b879.chunk.js",
     "static/js/3.4735b879.chunk.js.map": "/mechaPortfolio/static/js/3.4735b879.chunk.js.map",
@@ -20,8 +20,8 @@
     "static/js/6.3ca7b44e.chunk.js": "/mechaPortfolio/static/js/6.3ca7b44e.chunk.js",
     "static/js/6.3ca7b44e.chunk.js.map": "/mechaPortfolio/static/js/6.3ca7b44e.chunk.js.map",
     "static/css/7.ec70363e.chunk.css": "/mechaPortfolio/static/css/7.ec70363e.chunk.css",
-    "static/js/7.92be774d.chunk.js": "/mechaPortfolio/static/js/7.92be774d.chunk.js",
-    "static/js/7.92be774d.chunk.js.map": "/mechaPortfolio/static/js/7.92be774d.chunk.js.map",
+    "static/js/7.b6d86a2c.chunk.js": "/mechaPortfolio/static/js/7.b6d86a2c.chunk.js",
+    "static/js/7.b6d86a2c.chunk.js.map": "/mechaPortfolio/static/js/7.b6d86a2c.chunk.js.map",
     "static/css/8.ca980a5f.chunk.css": "/mechaPortfolio/static/css/8.ca980a5f.chunk.css",
     "static/js/8.64da2b0b.chunk.js": "/mechaPortfolio/static/js/8.64da2b0b.chunk.js",
     "static/js/8.64da2b0b.chunk.js.map": "/mechaPortfolio/static/js/8.64da2b0b.chunk.js.map",
@@ -57,10 +57,10 @@
     "static/media/toggle-light.28152a5f.svg": "/mechaPortfolio/static/media/toggle-light.28152a5f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9560e29.js",
+    "static/js/runtime-main.bf20aa5b.js",
     "static/css/3.27e19a57.chunk.css",
     "static/js/3.4735b879.chunk.js",
     "static/css/main.72a4e405.chunk.css",
-    "static/js/main.df0b0e5b.chunk.js"
+    "static/js/main.a3696844.chunk.js"
   ]
 }
